@@ -1,0 +1,11 @@
+{
+  "name": "shared-components-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JasonSanford/shared-components-test.git",
+  "author": "Jason Sanford <jasonsanford@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@alltrails/shared-components": "^0.1.27"
+  }
+}
