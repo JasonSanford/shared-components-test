@@ -5,6 +5,9 @@
   "repository": "git@github.com:JasonSanford/shared-components-test.git",
   "author": "Jason Sanford <jasonsanford@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "echo hello"
+  },
   "dependencies": {
     "@alltrails/shared-components": "^0.1.27"
   }
